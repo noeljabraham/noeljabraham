@@ -4,4 +4,5 @@ I'am Noel✨.I really enjoy learning languages and frameworks like flutter/dart.
 ## Skills and Experience
 * ⚛ Flutter/Dart
 * 📱 Python
+* 🌫 Bash Scrpting
 * 💻 HTML, CSS
