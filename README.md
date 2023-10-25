@@ -1,10 +1,8 @@
-<!----![Design and Development](https://github.com/noeljabraham/noeljabraham/blob/main/Professional%20LinkedIn%20Banner.jpg)------>
 
-# @
-I'am Noel✨.I really enjoy learning languages and frameworks like flutter/dart. I also enjoy wireframing, ui, ux, and design in general.
+Hi there 👋
 
-## Skills and Experience
-* ⚛ Flutter/Dart
-* 📱 Python
-* 🌫 Bash Scrpting
-* 💻 HTML, CSS
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=&logoColor=white&color=4267B2)](noeljabraham.github.io)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/e1hitler?t=QBYel7J46WPWsvAby0cxsA&s=09)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/noel-j-abraham-69412b1b0/)
+[![Instagram Badge](https://img.shields.io/badge/InstaGram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=bc2a8d)](https://www.youtube.com/watch?v=bgJ_1WuhUig)
+[![Facebook Badge](https://img.shields.io/badge/FaceBook-Profile-informational?style=flat&logo=faceBook&logoColor=white&color=4267B2)](https://www.youtube.com/watch?v=Lm4LYX3xdkU)
