@@ -1,5 +1,5 @@
 
-Hi there 👋
+Hi there 👋, 
 I'm Noel J Abraham
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=&logoColor=white&color=4267B2)](https://noeljabraham.github.io/)
