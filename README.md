@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=1200&lines=%3E+Initializing+profile...;%3E+Noel+J+Abraham;%3E+AI+Generalist;%3E+Google+Cybersecurity+Certified+Professional;%3E+Network+Infrastructure+Builder;%3E+Full-Stack+Developer;%3E+Flutter+Developer;%3E+Cybersecurity+%26+InfoSec+Enthusiast;%3E+Access+Granted)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=1200&lines=%3E+Initializing+profile...;%3E+Noel+J+Abraham;%3E+AI+Generalist;%3E+Google+Cybersecurity+Certified+Professional;%3E+Network+Infrastructure+Builder;%3E+Full-Stack+Developer;%3E+Flutter+Developer;%3E+Cybersecurity+%26+InfoSec+Enthusiast;)](https://git.io/typing-svg)
 
 ### Hi there 👋
 #### I'm Noel J Abraham
