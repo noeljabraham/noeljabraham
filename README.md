@@ -11,5 +11,5 @@
 ### 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-001B10?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://noeljabraham.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noeljabraham/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-001B10?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noeljabraham/)
 [![Gmail](https://img.shields.io/badge/Gmail-001B10?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:noeljabraham@gmail.com)
